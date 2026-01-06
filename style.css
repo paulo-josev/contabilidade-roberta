@@ -196,9 +196,8 @@ button {
 }
 
 .btn-primary:hover {
-    background-color: var(--primary-dark);
-    transform: translateY(-2px);
-    box-shadow: var(--shadow-lg);
+    background-color: var(--primary-color);
+    color: var(--text-white);
 }
 
 .btn-secondary {
